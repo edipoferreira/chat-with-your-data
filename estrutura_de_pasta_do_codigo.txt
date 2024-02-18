@@ -1,0 +1,30 @@
+.
+├── Files_to_Vectors.py
+├── Pages_
+│   ├── __pycache__
+│   │   ├── chatbot.cpython-310.pyc
+│   │   ├── home.cpython-310.pyc
+│   │   └── knowledge_base.cpython-310.pyc
+│   ├── chatbot.py
+│   ├── home.py
+│   └── knowledge_base.py
+├── README.md
+├── __pycache__
+│   ├── config.cpython-310.pyc
+│   └── utils.cpython-310.pyc
+├── config.py
+├── estrutura_de_pasta_do_codigo.txt
+├── main.py
+├── myFiles
+│   ├── knowledge_base1
+│   │   ├── CPT Reports - August 2023.pdf
+│   │   ├── ChatGPTandAutodidactic-2023-4.pdf
+│   │   └── chatgptandpublichealth.pdf
+│   └── knowledge_base2
+│       └── Self-Driving_Cars.pdf
+├── requirements.txt
+├── static
+│   └── robot.png
+└── utils.py
+
+7 directories, 20 files
